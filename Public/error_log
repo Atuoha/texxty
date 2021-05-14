@@ -1,0 +1,16 @@
+[16-May-2020 04:12:22 America/New_York] PHP Notice:  Undefined variable: conn in /home/invebuty/public_html/Texxty/Public/start.php on line 47
+[16-May-2020 04:12:22 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/invebuty/public_html/Texxty/Public/start.php on line 47
+[16-May-2020 04:12:22 America/New_York] PHP Notice:  Undefined variable: conn in /home/invebuty/public_html/Texxty/Public/start.php on line 48
+[16-May-2020 04:12:22 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/invebuty/public_html/Texxty/Public/start.php on line 48
+[16-May-2020 04:12:40 America/New_York] PHP Notice:  Undefined variable: conn in /home/invebuty/public_html/Texxty/Public/start.php on line 47
+[16-May-2020 04:12:40 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/invebuty/public_html/Texxty/Public/start.php on line 47
+[16-May-2020 04:12:40 America/New_York] PHP Notice:  Undefined variable: conn in /home/invebuty/public_html/Texxty/Public/start.php on line 48
+[16-May-2020 04:12:40 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/invebuty/public_html/Texxty/Public/start.php on line 48
+[16-May-2020 04:12:46 America/New_York] PHP Notice:  Undefined variable: conn in /home/invebuty/public_html/Texxty/Public/start.php on line 47
+[16-May-2020 04:12:46 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/invebuty/public_html/Texxty/Public/start.php on line 47
+[16-May-2020 04:12:46 America/New_York] PHP Notice:  Undefined variable: conn in /home/invebuty/public_html/Texxty/Public/start.php on line 48
+[16-May-2020 04:12:46 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/invebuty/public_html/Texxty/Public/start.php on line 48
+[16-May-2020 04:13:00 America/New_York] PHP Notice:  Undefined variable: conn in /home/invebuty/public_html/Texxty/Public/start.php on line 47
+[16-May-2020 04:13:00 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/invebuty/public_html/Texxty/Public/start.php on line 47
+[16-May-2020 04:13:00 America/New_York] PHP Notice:  Undefined variable: conn in /home/invebuty/public_html/Texxty/Public/start.php on line 48
+[16-May-2020 04:13:00 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/invebuty/public_html/Texxty/Public/start.php on line 48

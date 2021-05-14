@@ -1,0 +1,1686 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+	overflow-x: hidden;
+	max-height: 7000px;
+}
+
+
+/*NORMAL STYLING*/
+
+#main-div{
+    margin-top: 80px;
+
+}
+
+#top_background{
+	background-image: url("../image/cms.png");
+	min-width: 100%;
+	min-height: 400px;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+#log-div{
+	min-height: 150px;
+	border-radius: 5px;
+	padding:15px 15px 20px 15px;
+}
+
+
+#search{
+	border:2px solid #e0e0e0 ;
+	background-color: white;
+	border-radius: 5px;
+	padding-left: 5px;
+	height: 30px;
+}
+
+#bordered{
+	border-radius: 50px;
+	background-color: #ff6d00;
+}
+
+#bordered:hover{
+	cursor: pointer;
+}
+
+.head{
+	border-radius: 100%;
+	min-height: 1000000px;
+	background-color: #eee;
+}
+
+.texts{
+	font-size: 1.2em;
+}
+
+.colored{
+	color:#ff880e;
+}
+.click{
+	background-color:#ff880e;
+	border-radius: 50px;
+}
+
+
+.click:hover{
+	background-color:white;
+	border: 2px inset #ff880e;
+	color:#ff880e;
+	border-radius: 20%;
+}
+#mian-div{
+	margin-top: 70px;
+}
+
+#chart-div{
+	margin-top: 70px;
+
+}
+
+
+
+#log-divs{
+	margin-top:20px;
+	min-height: 200px;
+	max-height: 350px;
+	border-radius: 5px;
+	padding:15px 15px 20px 15px;
+}
+
+
+.btn{
+	border-radius: 7px;
+
+}
+
+#b{
+	font-family: cursive;
+}
+
+#log-divss{
+	margin-top:20px;
+	min-height: 120px;
+	border-radius: 5px;
+	padding:15px 15px 20px 15px;
+}
+
+#down-logo{
+    width: 300px;
+}
+
+.p-top{
+font-weight: bold;
+margin-bottom: 7px;
+}
+
+
+#page-head{
+	font-size: 2.3em;
+}
+
+#sub-text{
+	font-size: 1.3em;
+}
+
+.line{
+	
+	border:1px solid #f5f5f5 ;
+}
+
+
+.button-collapse{
+	cursor: pointer;
+}
+
+
+#abc{
+	padding: 7px;
+	border-radius: 7px;
+}
+
+
+#comment-div{
+	min-height: 250px;
+	max-height: 1500px;
+	padding: 20px;
+}
+
+
+.comments{
+	max-height: 350px;
+	overflow-y: scroll;
+}
+
+
+#error{
+	max-width: 50%;
+}
+
+#error_error{
+	max-width: 100%;
+}
+
+
+#input{
+	border:2px solid #e0e0e0 ;
+	background-color: white;
+	border-radius: 5px;
+	padding-left: 5px;
+	height: 30px;
+}
+
+
+#inputss{
+	border:2px solid #e0e0e0 ;
+	background-color: white;
+	border-radius: 5px;
+	padding-left: 5px;
+	height: 150px;
+}
+
+
+
+#inputs{
+	border:2px solid #e0e0e0 ;
+	background-color: white;
+	border-radius: 5px;
+	padding-left: 5px;
+	height: 90px;
+}
+
+#abc{
+	padding: 7px;
+	border-radius: 7px;
+}
+
+
+
+
+.Bigcontainer{
+	margin-top: 50px;
+}
+
+/*END OF NORMAL STYLING*/
+
+
+
+#main-divs{
+	background-image: url("/investngain/image/map.jpg");
+}
+
+
+
+
+
+
+/* REGISTER STYLING*/
+
+#reg{
+	margin-top: 50px;
+	border-radius:10px 0 10px 0;
+	padding: 40px;
+	max-width: 40%;
+	min-height: 30%;
+
+
+}
+
+#user{
+	border:2px solid #e0e0e0 ;
+	background-color: white;
+	border-radius: 5px;
+	padding-left: 5px;
+	height: 35px;
+	width: 98%;
+}
+
+
+.lab{
+	/*margin-left: 2px;*/
+}
+
+.list{
+	color:black;
+}
+
+.list:hover{
+	background-color:#f9a825;
+	color: white;
+}
+
+.tabs li:visited{
+	background-color: red;
+}
+
+#mobile{
+	margin-top: 55px;
+	border-radius: 0 10px;
+	z-index:50000;
+}
+
+
+
+
+/* END OF REGISER STYLING*/
+
+
+
+.navbar-fixed{
+    z-index:5000;
+   
+    
+}
+
+.nav-wrapper{
+     padding: 10px;
+}
+
+
+
+/*CONTACT STYLING*/
+
+#con-div{
+	margin-top: 100px;
+	min-height: 150px;
+	padding: 30px;
+}
+
+#forgot-div{
+	margin-top: 100px;
+	min-height: 100px;
+	padding: 30px;
+	max-width: 30%;
+}
+
+
+
+#mail{
+	border:2px solid #e0e0e0 ;
+	background-color: white;
+	border-radius: 5px;
+	padding-left: 5px;
+	height: 40px;
+}
+
+#funame{
+	border:2px solid #e0e0e0 ;
+	background-color: white;
+	border-radius: 5px;
+	padding-left: 5px;
+	height: 40px;
+}
+
+#btc{
+border:2px solid #e0e0e0 ;
+	background-color: white;
+	border-radius: 5px;
+	padding-left: 5px;
+	height: 40px;
+}
+
+#usd{
+	border:2px solid #e0e0e0 ;
+	background-color: white;
+	border-radius: 5px;
+	padding-left: 5px;
+	height: 40px;
+}
+
+#msg{
+	border:2px solid #e0e0e0 ;
+	background-color: white;
+	border-radius: 5px;
+	padding:25px 0  0 5px;
+	height: 150px;
+	width: 100%;
+
+}
+
+#contact-btn{
+	padding: 10px;
+	border-radius: 7px;
+}
+
+#forgot-btn{
+	padding: 7px;
+	border-radius: 7px;
+	width: 100%;
+}
+
+#forgot-div{
+	margin-top: 100px;
+	min-height: 100px;
+	padding: 30px;
+	max-width: 40%;
+}
+
+
+
+/* END OF CONTACT STYLING*/
+
+
+
+#img{
+		width: 500px;
+	}
+
+
+#img-single{
+	width: 650px;
+}
+
+
+
+#img_upload{
+	min-height: 130px;
+	max-width: 120%;
+	border:2px solid #e0e0e0;
+	border-radius: 10px;
+}
+
+
+
+
+
+
+/*.pagination li .active{
+	background-color: #000 !important;
+}
+*/
+
+
+
+.nav_list:hover{
+	background-color: #eee  ;
+	color:black;
+/*    padding:10px;*/
+}
+
+
+.list{
+    font-size:1.1em;
+    font-family: cursive;
+}
+
+
+
+
+/* E COMM */
+
+
+#descDiv{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border-top: 30px solid #ff6d00;
+    min-height: 300px;
+    max-height: 300px;
+    color:white;
+    background: transparent;
+    font-weight: bolder;
+    border-radius: 20% 20% 0 0;
+/*    border-radius: 0 0 85% 85% / 35% 20% 30%;*/
+    padding:20px;
+    position: absolute!important;
+    z-index: 10 !important;
+    top:470px;
+    left:0px !important;
+    right:0 !important;
+    bottom:0; 
+    width:30% !important;
+}
+
+#info{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+.section-search{
+	min-height: 160px;
+}
+
+
+#check_div{
+	margin-top: 30px;
+	min-height: 800px;
+	padding:10px;
+	position: absolute;
+	top:200px;
+	bottom: 50px;
+	left: 200px;
+	border-radius: 0 0 80% 80%/30%;
+}
+
+
+.check-btn{
+	padding: 5px;
+	border-radius: 7px;
+	color:white;
+}
+
+
+
+#check_divHeader{
+	min-height: 300px;
+	border-radius: 0 0 85% 85%/35%;
+	background-image: url("../image/ssd.png");
+	background-position: center;
+	background-size: contain;
+	background-repeat: no-repeat;
+	border: 5px inset #eee;
+}
+
+
+#cart-totDivs{
+	margin-top: 50px;
+	max-width: 60%;
+	float: right;
+}
+
+
+table, th, td {
+    border: 1px solid #eee;
+}
+
+
+
+.section-search input{
+    padding: 5px !important;
+    font-size: 18px !important;
+    width: 90% !important;
+    border-radius: 10px !important;
+    border: #f4f4f4 3px solid !important;
+}
+
+
+
+
+.slider{
+	border-radius: 0 0 85% 85% / 35%;
+}
+
+
+#log_header{
+	background-image: url("../image/sh.jpeg");
+	/*background-color: red;*/
+	min-height: 200px;
+	min-width: 100%;
+	background-position: center;
+	border-radius: 0 0 85% 85%/75%;
+}
+
+#log_div{
+	margin-top: 30px;
+	border-top: 40px solid #4a2711;
+    background: #fafafa ;
+	border-radius:90px 90px 0 0; 
+	max-width: 50%;
+	min-width: 30%;
+	max-height: 50px;
+	padding: 50px;
+}
+
+
+
+.para_des{
+	text-align: justify;
+}
+
+
+#cat_div{
+	min-height: 100px;
+	background-image: url('/E-commerce/Public/image/ba.png');
+
+}
+
+#mobile{
+	background-image: url('/Texxty/Public/image/price_bg.jpg');
+	background-position: bottom left;
+	background-repeat: no-repeat;
+}
+
+
+
+#shop_header{
+	/*background-image: url("../image/cart.png");*/
+	/*background-color: red;*/
+	min-height: 200px;
+
+	min-width: 100%;
+	/*background-position: center;*/
+	/*background-repeat: no-repeat;*/
+	/*background-size: contain;*/
+	border:1px solid #bdbdbd;
+	border-radius: 0 0 85% 85%/50%;
+}
+
+#slideDiv{
+    /* min-height: 450px; */
+    background-position: center;
+	background-repeat: no-repeat;
+	background-size: contain;
+    /*background-size: cover;*/
+    /*background-position: center center;*/
+    /*background-repeat: no-repeat;*/
+}
+#slideImgDiv{
+    text-align: center;
+}
+#slideImg{
+    max-height: 400px;
+}
+#slideCapDiv{
+    color: #FDFDFD;
+    background-image: url("/E-commerce/Public/image/ba.png");
+	background-repeat: no-repeat;
+    min-height: 200px;
+	background-size: cover;
+
+    text-shadow: 0 0 4px #1b1b1b;
+    text-align: center;
+    margin-top: 50px;
+}
+#slideCapDiv h1{
+    font-weight: bold;
+    text-align: center;
+}
+
+#check-foot{
+	margin-top:1000px;
+}
+
+
+
+
+
+
+/*FROM PREVIOUS WORK*/
+#middle-div{
+	margin-top: 60px;
+}
+
+.top_side{
+	margin-top: 10px;
+}
+
+.text-dec{
+	text-align: justify;
+}
+
+.round-awesome{
+    background-color: #eee;
+    color: white;
+    border-radius:100%;
+    padding:18px 80px 70px 21px;
+    font-size: 4em !important;
+
+}
+
+.round-awesome:hover{
+    background-color: #ff6d00;
+    color: white;
+    border-radius:100%;
+    padding:18px 80px 70px 21px;
+    font-size: 4em !important;
+    transition: all .5s;
+    transition-property: all;
+    transition-duration: 0.9s;
+    transition-timing-function: ease;
+    transition-delay: 0.2s;
+    cursor: pointer;
+}
+
+.call-awesome{
+    padding:15px;
+    background-color: #e0e0e0;
+    font-size: 1.2em;
+}
+
+
+.det{
+    padding: 15px;
+    background-color: #ff6d00;
+    font-size: 1.2em;
+    color: white;
+}
+
+.last-div{
+	margin: 20px 0 50px 0;
+}
+
+
+
+
+/*END OF FROM WORK*/
+
+
+
+#what-bitDiv{
+	background-image: url("/investngain/image/bit_bg.jpg");
+	min-height: 760px;
+}
+
+
+#bitcoin-scale-div{
+	background-image: url("/investngain/image/bit_sm.jpg");
+	min-height: 500px;
+}
+
+
+#inner-scale-div{
+	min-height: 760px;
+	background: rgba(0,0,0,.8);
+	padding-top: 120px;
+}
+
+#reg-div{
+	background-image: url("/investngain/image/slide1.jpg");
+	min-height: 760px;
+}
+
+#inner-log-divs{
+	background: rgba(0,0,0,.8);
+	min-height: 760px;
+	padding-top: 120px;
+}
+
+
+#what-div-sub{
+	min-height: 400px;
+	margin-top: 120px;
+}
+
+.popout li{
+background-color:transparent;
+border-top: 1px solid hsla(0,0%,100%,.45);
+border-bottom: 1px solid hsla(0,0%,100%,.45);
+}
+
+#mian-div{
+	/*background-image: url("/Texxty/Public/image/smss.jpg");*/
+	/*background-size: contain;*/
+	/*background-repeat: no-repeat;*/
+	/*background-position: center;*/
+}
+
+#cal_div{
+	background-image: url("/investngain/image/bit_backs.jpg");
+	background-position: center ;
+	min-height: 760px;
+}
+
+#orange-text-div{
+	min-height: 200px;
+}
+
+#orange-text-span{
+	border-left: 5px solid white;
+	min-height: 50px;
+
+}
+
+#orangeText-con{
+	padding-top:50px;
+}
+
+
+#orange-text{
+	margin-left: 10px;
+}
+/* E COMM */
+
+#team-div{
+	background-image: url("/investngain/image/price_bg.jpg");
+	background-position: center;
+	background-size: contain;
+}
+
+#team-logos{
+	margin-top: 120px;
+}
+
+#blog_bigger{
+	background-image: url("/investngain/image/bb.png");
+	background-position: center;
+	background-size: contain;
+}
+
+#blog-div{
+	margin-top: 120px;
+
+}
+
+
+#review_bigger{
+	background-image: url("/investngain/image/bg1.jpg");
+	background-position: center;
+	background-size: contain;
+	margin-bottom: 100px;
+	max-height: 600px;
+	min-height: 400px;
+	margin-top:50px;
+
+}
+
+#review-div{
+	margin-top: 120px;
+
+}
+
+
+.blog_card{
+	border-radius: 20px;
+	min-height: 550px;
+}
+
+.review-div{
+	margin-top: 30px;
+}
+#register-div{
+	background-color:transparent;
+border-top: 5px solid hsla(0,0%,100%,.45);
+border-bottom: 5px solid hsla(0,0%,100%,.45);
+font-size: 30px;
+font-weight: 100;
+color:
+hsla(0,0%,100%,.9215686274509803);
+text-align: center;
+min-height: 600px;
+border-radius: 20px;
+font-family: Raleway,sans-serif;
+line-height: 1.1;
+padding: 50px;
+}
+
+#form-div{
+	margin-top: 50px;
+}
+
+#para-reg-text{
+	font-size: 15px;
+	margin-top: 10px;
+}
+
+
+
+.socail{
+	width: 100%;
+height: 50px;
+line-height: 50px;
+text-align: center;
+background:#282828;
+margin-left: 5px;
+cursor: pointer;
+/*border:2px solid grey;*/
+color:#ababab;
+font-size: 20px;
+padding: 10px 20px 10px 20px;
+
+border-radius: 100%;
+-webkit-transition: all .5s;
+transition: all .5s;
+    transition-property: all;
+    transition-duration: 0.5s;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+}
+
+
+
+.socail:hover{
+	width: 100%;
+height: 50px;
+line-height: 50px;
+text-align: center;
+background:#fb8c00;
+margin-left: 5px;
+cursor: pointer;
+/*border:2px solid grey;*/
+color:white;
+font-size: 20px;
+padding: 10px 20px 10px 20px;
+
+border-radius: 100%;
+-webkit-transition: all .5s;
+transition: all .5s;
+    transition-property: all;
+    transition-duration: 0.5s;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+}
+
+
+.top-image-div-contact{
+	min-height: 500px;
+	background-image: url("/investngain/image/contact-us.png");
+	background-position: center;
+	background-size: cover;
+}
+
+
+.top-image-div-faq{
+	min-height: 500px;
+	background-image: url("/Texxty/Public/image/bk.jpg");
+	background-position: center;
+	background-size: cover;
+}
+
+
+#faq-innerdiv{
+	margin-top: 160px;
+}
+
+.touch-text{
+	border-radius: 13px; 
+	border:2px solid #f9a825;
+}
+
+#imag-ul li{
+	display: inline-block;
+	margin-top: 10px;
+	margin-left: 10px;
+}
+
+.top-container-about{
+	min-height: 500px;
+	background-image: url("/investngain/image/pexel2.jpeg");
+	background-position: center;
+	background-size: cover;
+}
+
+#inner-log-div-about{
+	background: rgba(0,0,0,.8);
+	min-height: 500px;
+	padding-top: 120px;
+}
+
+#descDiv-about{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border-top: 30px solid #ff6d00;
+    min-height: 300px;
+    max-height: 300px;
+    color:white;
+    background: transparent;
+    font-weight: bolder;
+    border-radius: 20% 20% 0 0;
+/*    border-radius: 0 0 85% 85% / 35% 20% 30%;*/
+    padding:20px;
+    position: absolute!important;
+    z-index: 10 !important;
+    top:250px;
+    left:1000px !important;
+    right:0 !important;
+    bottom:0; 
+    width:30% !important;
+}
+
+
+#about-inn{
+	min-height: 400px;
+	background-color: white;
+}
+
+#about-div{
+	position: absolute;
+	top:530px;
+	left: 150px;
+	/*margin-left: 130px;*/
+	bottom:0px;
+	margin-bottom: 500px;
+	width: 80%;
+
+}
+
+#body_register{
+	background-image: url("/Texxty/Public/image/price_bg.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+#register_division{
+	min-height: 650px;
+	/*margin-top: 70px;*/
+}
+
+#reg-text{
+	min-height: 650px;
+	max-height: 650px;
+	margin-top: 70px;
+	padding: 30px;
+}
+
+
+#log-text{
+	min-height: 650px;
+	max-height: 650px;
+	margin-top: 70px;
+	background-image: url("/Texxty/Public/image/texts.png");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+
+
+#log-text2{
+	min-height: 650px;
+	max-height: 650px;
+	margin-top: 70px;
+	background-image: url("/investngain/image/pexel2.jpeg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+
+
+#log-input{
+	min-height: 650px;
+	max-height: 650px;
+	margin-top: 70px;
+	padding: 80px 60px 60px 60px;
+}
+
+
+
+#reg-input{
+	min-height: 650px;
+	max-height: 650px;
+	margin-top: 70px;
+	padding: 30px;
+}
+
+
+#already_btn:hover{
+	background-color: #0277bd;
+	color: white;
+	-webkit-transition: all .5s;
+transition: all .5s;
+    transition-property: all;
+    transition-duration: 0.5s;
+    transition-timing-function: ease;
+    transition-delay: 0.1s;
+}
+
+#already_btn{
+
+	background-color: white;
+	color: #0277bd;
+	max-width: 55%;
+
+}
+
+
+
+#create_btn:hover{
+	background-color: white;
+	color: #039be5 ;
+	-webkit-transition: all .5s;
+transition: all .5s;
+    transition-property: all;
+    transition-duration: 0.5s;
+    transition-timing-function: ease;
+    transition-delay: 0.1s;
+}
+
+#create_btn{
+
+	background-color: #039be5;
+	color: white;
+
+}
+
+
+
+.font-form{
+	font-size: 1.2em;
+}
+
+
+
+
+
+/*PRELOADER */
+
+
+#load-screen {
+    background: url("investngain/image/header-back.png");
+    position: fixed;
+    z-index: 10000;
+    top:0px;
+    width: 100%;
+    height: 1600px;
+    
+    }
+    
+    
+ #loading {
+    
+    width: 500px;
+    height: 500px;
+    margin: 10% auto;
+    background: url("investngain/image/bit_loader.gif");
+    background-size: 40%;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+    }
+
+/*END OF PRELOADER*/
+
+
+
+
+
+#reply-p{
+	margin-left:40px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* MEDIA QUERY */
+
+@media only screen and (max-width: 729px){
+
+	.top-image-div-contact{
+	min-height: 500px;
+	background-image: url("/investngain/image/contact-us.png");
+	background-position: right  !important;
+	background-size: cover !important;
+}
+
+	#already_btn{
+
+	background-color: white;
+	color: #01579b;
+	max-width: 100%;
+
+}
+
+
+	#reg-text{
+	min-height: 650px;
+	max-height: 650px;
+	margin-top: 0px;
+	padding: 30px;
+}
+
+
+#log-text{
+	min-height: 650px;
+	max-height: 650px;
+	margin-top: 0px;
+	background-image: url("/investngain/image/log_bg.jpeg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+
+
+#log-text2{
+	min-height: 650px;
+	max-height: 650px;
+	margin-top: 0px;
+	background-image: url("/investngain/image/log_bg.jpeg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+
+#log-input{
+	min-height: 650px;
+	max-height: 650px;
+	margin-top: 0px;
+	padding: 160px 60px 60px 60px;
+}
+
+
+
+#reg-input{
+	min-height: 650px;
+	max-height: 650px;
+	margin-top: 0px;
+	padding: 30px;
+}
+
+
+	#about-div{
+	position: static;
+	top:0px;
+	left: 0px;
+	right: 0px !important;
+	/*margin-left: 130px;*/
+	bottom:0px;
+	margin-bottom:30px !important;
+	min-width: 100% !important;
+	width: 100% !important;
+
+
+}
+
+
+	#about-inn{
+	min-height: 400px;
+	min-width: 100% !important;
+	width: 100% !important;
+}
+
+
+	.top-image-div-contact{
+	min-height: 300px;
+	background-image: url("/investngain/image/contact-us.png");
+	background-position: left center;
+	background-size: cover;
+}
+
+
+
+   #what-bitDiv{
+	background-image: url("/investngain/image/bit_bg.jpg");
+	background-position: center right;
+	min-height: 760px;
+}
+ 
+ #cal_div{
+	background-image: url("/investngain/image/bit_backs.jpg");
+	background-position: center left;
+	min-height: 760px;
+}
+    
+.round-awesome{
+    background-color: #eee;
+    color: white;
+    border-radius:100%;
+    padding:18px 60px 60px 19px;
+    font-size: 3em !important;
+}
+   
+.round-awesome:hover{
+    background-color: #ff6d00;
+    color: white;
+    border-radius:100%;
+    padding:18px 60px 60px 19px;
+    font-size: 3em !important;
+    transition: all .5s;
+    transition-property: all;
+    transition-duration: 0.9s;
+    transition-timing-function: ease;
+    transition-delay: 0.2s;
+    cursor: pointer;
+}
+  
+
+
+
+
+/* E COMM */
+
+#check-foot{
+	margin-top:1px;
+}
+
+#check_div{
+	margin-top: 30px;
+	min-height: 1000px;
+	padding:10px;
+	position: static;
+	top:0px;
+	bottom: 0px;
+	left: 0px;
+	border-radius:1px;
+
+}
+
+
+.cat_title{
+	font-size: 1.8em;
+}
+
+#log_div{
+	margin-top: 30px;
+	border-top: 40px solid #4a2711;
+    background: #fafafa ;
+	border-radius:90px 90px 0 0; 
+	max-width: 100%;
+	min-width: 100%;
+	max-height: 50px;
+	padding: 50px;
+}
+
+
+
+
+
+#descDiv-about{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border-top: 30px solid #ff6d00;
+    min-height: 300px;
+    max-height: 300px;
+    color:white;
+    background: transparent;
+    font-weight: bolder;
+    border-radius: 20% 20% 0 0;
+/*    border-radius: 0 0 85% 85% / 35% 20% 30%;*/
+    padding:20px;
+    position: absolute!important;
+    z-index: 10 !important;
+    top:100px;
+    left:0px !important;
+    right:0 !important;
+    bottom:0; 
+    width:100% !important;
+    min-width:100% !important;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+#descDiv{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border-top: 20px solid #ff6d00;
+    min-height: 300px;
+    max-height: 330px;
+    color:white;
+    background: rgba(183, 173, 173, 0.42);
+    font-weight: bolder;
+    border-radius: 20px;
+    padding:20px;
+    position: absolute!important;
+    z-index: 10 !important;
+    top:470px;
+    left:0px !important;
+    right:0 !important;
+    bottom:0; 
+    width:100% !important;
+}
+
+
+/* E COMM */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#forgot-btn{
+	padding: 7px;
+	border-radius: 7px;
+}
+
+#forgot-div{
+	margin-top: 100px;
+	min-height: 100px;
+	padding: 30px;
+	max-width: 100%;
+}
+
+
+
+#img_upload{
+	min-height: 130px;
+	max-width: 110%;
+	border:2px solid #e0e0e0;
+}
+
+
+
+
+.img-error{
+	margin-top: 30px;
+}
+
+
+
+#top-div{
+	margin-top: 50px;
+}
+
+.dat-itaxcs{
+	margin-left: 35px;
+}
+
+
+#error{
+	max-width: 100%;
+}
+
+
+#img{
+ width: 300px;
+}
+
+
+#img-single{
+	width: 300px;
+}
+
+	#reg{
+	margin-top: 20px;
+	border-radius:10px 0 10px 0;
+	padding: 40px;
+	max-width: 100%;
+	min-height: 100%;
+
+}
+
+
+#reg{
+	margin-top: 10px;
+
+}
+
+#sub-text{
+	display: block;
+}
+
+#log-div{
+	margin-top: 50px;
+}
+
+}
+
+
+
+
+
+
+
+@media only screen and (max-width: 992px){
+ 
+#review_bigger{
+	background-image: url("/investngain/image/bg1.jpg");
+	background-position: center;
+	background-size: contain;
+	margin-bottom: 100px;
+	max-height: 1600px !important;
+	min-height: 600px !important;
+	margin-top:50px;
+
+}
+
+
+	#about-div{
+	position: static;
+	top:0px;
+	left: 0px;
+	/*margin-left: 130px;*/
+	bottom:0px;
+	margin-bottom:30px !important;
+	min-width: 100% !important;
+
+}
+
+
+	#about-inn{
+	min-height: 400px;
+	min-width: 100% !important;
+
+}
+
+
+	.top-image-div-contact{
+	min-height: 300px;
+	background-image: url("/investngain/image/contact-us.png");
+	background-position: left center;
+	background-size: cover;
+}
+
+
+
+   #what-bitDiv{
+	background-image: url("/investngain/image/bit_bg.jpg");
+	background-position: center right;
+	min-height: 760px;
+}
+ 
+ #cal_div{
+	background-image: url("/investngain/image/bit_backs.jpg");
+	background-position: center left;
+	min-height: 760px;
+}
+    
+.round-awesome{
+    background-color: #eee;
+    color: white;
+    border-radius:100%;
+    padding:18px 60px 60px 19px;
+    font-size: 3em !important;
+}
+   
+.round-awesome:hover{
+    background-color: #ff6d00;
+    color: white;
+    border-radius:100%;
+    padding:18px 60px 60px 19px;
+    font-size: 3em !important;
+    transition: all .5s;
+    transition-property: all;
+    transition-duration: 0.9s;
+    transition-timing-function: ease;
+    transition-delay: 0.2s;
+    cursor: pointer;
+}
+  
+
+
+
+
+/* E COMM */
+
+#check-foot{
+	margin-top:1px;
+}
+
+#check_div{
+	margin-top: 30px;
+	min-height: 1000px;
+	padding:10px;
+	position: static;
+	top:0px;
+	bottom: 0px;
+	left: 0px;
+	border-radius:1px;
+
+}
+
+
+.cat_title{
+	font-size: 1.8em;
+}
+
+#log_div{
+	margin-top: 30px;
+	border-top: 40px solid #4a2711;
+    background: #fafafa ;
+	border-radius:90px 90px 0 0; 
+	max-width: 100%;
+	min-width: 100%;
+	max-height: 50px;
+	padding: 50px;
+}
+
+
+
+
+
+#descDiv-about{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border-top: 30px solid #ff6d00;
+    min-height: 300px;
+    max-height: 300px;
+    color:white;
+    background: transparent;
+    font-weight: bolder;
+    border-radius: 20% 20% 0 0;
+/*    border-radius: 0 0 85% 85% / 35% 20% 30%;*/
+    padding:20px;
+    position: absolute!important;
+    z-index: 10 !important;
+    top:100px;
+    left:0px !important;
+    right:0 !important;
+    bottom:0; 
+    width:50% !important;
+}
+
+
+
+
+
+
+
+
+
+#forgot-btn{
+	padding: 7px;
+	border-radius: 7px;
+}
+
+#forgot-div{
+	margin-top: 100px;
+	min-height: 100px;
+	padding: 30px;
+	max-width: 100%;
+}
+
+
+
+#img_upload{
+	min-height: 130px;
+	max-width: 110%;
+	border:2px solid #e0e0e0;
+}
+
+
+
+
+.img-error{
+	margin-top: 30px;
+}
+
+
+
+#top-div{
+	margin-top: 50px;
+}
+
+.dat-itaxcs{
+	margin-left: 35px;
+}
+
+
+#error{
+	max-width: 100%;
+}
+
+
+#img{
+ width: 300px;
+}
+
+
+#img-single{
+	width: 300px;
+}
+
+	#reg{
+	margin-top: 20px;
+	border-radius:10px 0 10px 0;
+	padding: 40px;
+	max-width: 100%;
+	min-height: 100%;
+
+}
+
+
+#reg{
+	margin-top: 10px;
+
+}
+
+#sub-text{
+	display: block;
+}
+
+#log-div{
+	margin-top: 50px;
+}
+
+}
+
+}
+
+
+
+/* END OF MEDIA QUERY */
